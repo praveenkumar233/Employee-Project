@@ -8,7 +8,7 @@ import lombok.Data;
 @Embeddable
 public class Address {
 	private String address;
-	private String pincode;
-	private String phoneNumber;
+	private Integer pincode;
+	private Integer phoneNumber;
 
 }
