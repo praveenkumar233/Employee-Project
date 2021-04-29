@@ -1,4 +1,5 @@
 package com.sample.employeedemo.entity;
+import javax.persistence.Embedded;
 
 import javax.persistence.Entity;
 import javax.persistence.EntityListeners;
